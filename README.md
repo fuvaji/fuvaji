@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @fuvaji
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning c++, c#
-- 💞️ I’m looking to collaborate on minecraft mods and plugins
-- 📫 How to reach me 
+-     @fuvaji
+-     c++, c#
+-     How to reach me 
       discord: fuvaji#1187
       telegram: @fuvaji
       twitter: @fuvaji
