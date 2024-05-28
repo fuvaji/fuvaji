@@ -1,7 +1,7 @@
 -     @fuvaji
 -     c++, c#
 -     How to reach me 
-      discord: fuvaji#1187
+      discord: @fuvaji
       telegram: @fuvaji
       twitter: @fuvaji
 
