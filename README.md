@@ -1,5 +1,5 @@
 -     @fuvaji
--     c++, c#
+-     fullstack trainee .net/angular
 -     How to reach me 
       discord: @fuvaji
       telegram: @fuvaji
