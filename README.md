@@ -1,5 +1,5 @@
 -     @fuvaji
--     fullstack trainee .net/angular
+-     fullstack .net/angular/node/ai-integrations/rag system/tell me what to learn and I will
 -     How to reach me 
       discord: @fuvaji
       telegram: @fuvaji
